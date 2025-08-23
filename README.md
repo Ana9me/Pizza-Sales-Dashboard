@@ -35,4 +35,4 @@ Average Pizzas per Order
 Check the Power BI dashboard to get a detailed look at the results.
 ### Link to live dashboard
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNjMxOWFmN2EtZDU0Ny00M2RjLWEwYzctODBmYTM4YWMxZTIzIiwidCI6IjdiODdkYzgwLWY4MzctNGZmYS04NGM4LThhMDhkNDRiNzk5NyJ9">View Live Dashboard</a>
-![Screenshot (495)]()
+![Screenshot Dashboard](https://github.com/Ana9me/Pizza-Sales-Dashboard/blob/main/Screenshot%20of%20pizza%20sales%20dashboard.png)

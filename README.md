@@ -1,5 +1,6 @@
 # Pizza-Sales-Dashboard
 
+![Screenshot Dashboard](https://github.com/Ana9me/Pizza-Sales-Dashboard/blob/main/Pizza.png)
 ## Objective -
 To evaluate and visualize business performance, identify trends, and provide actionable insights for a Pizza business. To create dashboards that can help track pizza sales, identify top sellers, and monitor key performance indicators (KPIs) such as revenue, order quantity, average pizzas sold per order among others.
 
